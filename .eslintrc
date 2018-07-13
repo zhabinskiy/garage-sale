@@ -6,6 +6,7 @@
     "jest": true
   },
   "rules": {
+    "react/prop-types": "off",
     "react/require-prop-types": "off",
     "react/jsx-filename-extension": "off"
   }
